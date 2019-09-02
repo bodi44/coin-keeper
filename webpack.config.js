@@ -6,7 +6,7 @@ module.exports = {
 
   entry: './index.js',
   output: {
-    path: path.resolve(__dirname, 'dist'),
+    path: path.resolve(__dirname, 'build'),
     filename: 'main.js',
   },
 
